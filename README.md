@@ -56,3 +56,6 @@ Access that address from your browser and you will get to the demo page.
 
 ### TODO
 * Improve the way BigBlueButton services start using supervisord/systemd instead of using a custom script (TODO for 0.9.0 bbb version).
+* Install bigbluebutton-html5 and change to work in development mode
+* Install webhooks
+* clean the image to make more lighter
